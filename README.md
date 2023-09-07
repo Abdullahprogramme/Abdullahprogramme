@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdullahprogramme
-- 👀 I’m interested in programming especially Flutter.
-- 🌱 I’m currently learning Python from Coursera.
-- 💞️ I’m looking to collaborate on amazing projects in high school level.
+- 👀 I’m interested in programming especially Flutter and React.
+- 🌱 I’m currently learning JavaScript and React.
+- 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me abdtariq78@gmail.com
 
 
