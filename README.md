@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 How to reach me abdtariq78@gmail.com
+- LinkedIn: www.linkedin.com/in/abdullahtariq78
 
 
 <!---
