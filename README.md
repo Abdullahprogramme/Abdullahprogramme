@@ -40,7 +40,7 @@ To streamline my development process, I rely on the following tools:
 ## Programming Language Stats
 Here’s a breakdown of the programming languages I use the most:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahprogramme&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahprogramme)
 
 ## Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through email or LinkedIn.
