@@ -48,6 +48,14 @@ To streamline my development process, I rely on the following tools:
 Here’s a breakdown of the programming languages I use the most:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahprogramme)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahprogramme&layout=compact)
+
+## LeetCode
+Here’s my current LeetCode medal:
+
+![LeetCode Medal](https://leetcode.com/medal/?id=4849004&isLevel=false&showImg=0)
+![LeetCode Medal](https://leetcode.com/medal/?id=7539409&isLevel=false&showImg=0)
+![LeetCode Medal](https://leetcode.com/medal/?id=8071299&isLevel=false&showImg=0)
 
 ## Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through email or LinkedIn.
