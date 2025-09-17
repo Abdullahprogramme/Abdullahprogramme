@@ -48,7 +48,7 @@ To streamline my development process, I rely on the following tools:
 Here’s a breakdown of the programming languages I use the most:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahprogramme)
-![Metrics](https://metrics.lecoq.io/Abdullahprogramme?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKarachi)
+![Top Langs](https://metrics.lecoq.io/Abdullahprogramme?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FKarachi)
 
 ## Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out to me through email or LinkedIn.
